@@ -9,6 +9,7 @@ public class Git_Practice {
         ArrayList<Integer> list = new ArrayList<>();
 
         String[] s = new String[5];
+        int i =0;
 
     }
 }
